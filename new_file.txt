@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 first line in master
+=======
+first feature
+second feature
+>>>>>>> new_feature
